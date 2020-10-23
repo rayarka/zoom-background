@@ -2,7 +2,7 @@
 
 ## What you'll need:
 1. Download the video you wish to use (mp4 preferably). *A potential improvement would be to integrate the youtube_dl or another similar module and allow the user to select a video based on url*
-2. Download the picture you wish to use (png preferrably)
+2. Download the picture you wish to use (png preferably)
 3. Clone this repo
 4. Run **pip install -r requirements.txt** to download the moviepy module
 5. Run **zoom_bkgrnd_logo.py**
